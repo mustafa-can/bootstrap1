@@ -1,0 +1,60 @@
+a {
+	outline: none;
+	text-decoration: none !important;
+}
+
+.navbar {
+    padding-top: 10px; /* Whatever you want. */
+	padding-bottom: 10px;
+	border: none;
+	border-radius: 0px;
+	margin-bottom: 0;
+}
+.activex a {
+	background: #202529;
+}
+#myNavbar a, .navbar-brand {
+	color: #fff !important;
+}
+#header {
+}
+#header .row {
+	background: #13ACC0;
+}
+#header h1 {
+	font-size: 5vw;
+	font-weight: bold;
+	color: #fff;
+}
+
+#slogan .row div * {
+  	margin: 0 auto;
+}
+#slogan h1, #content h1 {
+	font-size: 4vw;
+}
+#header, #right-link {
+	margin-bottom: 0;
+}
+#content {
+	margin-top:0;
+}
+.responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+#right-link div {
+	border: none;
+}
+.thumbnail img {
+	width: 100%;
+}
+.thumbnail img, .thumbnail a {
+	border: none;
+	margin-left: 0;
+	border-radius: 0;
+}
+#content {
+	background: #EBEBEB;
+}
